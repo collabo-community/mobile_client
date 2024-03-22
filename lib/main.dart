@@ -12,7 +12,7 @@ void main() {
         // AppBar
         appBar: AppBar(
           backgroundColor: Colors.white,
-          title: const Text('Collabo Community App'),
+          title: const Text('Collabo Community Mobile App'),
         ),
 
         // Body
